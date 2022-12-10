@@ -1,4 +1,4 @@
-package Leetcode.ReverseList;
+package Leetcode.RemoveDuplicates;
 
 import java.util.Arrays;
 
